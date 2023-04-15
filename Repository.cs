@@ -1,7 +1,9 @@
 ﻿namespace TspuWeb
 {
-    static class Repository
+    class Repository
     {
-        private List<User> User { get; set; }
+        private static List<User> User { get; set; }
+        
+        void 
     }
 }
